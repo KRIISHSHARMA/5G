@@ -62,4 +62,8 @@
 - the cells are designed to have "tessellating"( polygons, that fit together closely without gaps or overlapping) coverage
 - as you drive , you are handed off from one base station to the next by the network
 
-  
+## cellular network :
+![Screenshot from 2023-10-29 23-08-35](https://github.com/KRIISHSHARMA/5G/assets/86760658/48352042-23db-4c31-857a-feb5ec29ffd0)
+
+![Screenshot from 2023-10-29 23-10-08](https://github.com/KRIISHSHARMA/5G/assets/86760658/5e34ede6-7230-4108-8a20-656cf42e96bb)
+![Screenshot from 2023-10-29 23-10-29](https://github.com/KRIISHSHARMA/5G/assets/86760658/657af6af-9dd1-4f1c-810b-00e8ce3edc1f)
