@@ -1,3 +1,11 @@
 # 5G
+## Acronyms and Abbreviations 
 
-[52r2Et-YT4qq9hLfmJ-KWg_b1cb2df746484d3a9ac2de3ab26c9df1_5G-for-Everyone_AcronymList.pdf](https://github.com/KRIISHSHARMA/5G/files/13198436/52r2Et-YT4qq9hLfmJ-KWg_b1cb2df746484d3a9ac2de3ab26c9df1_5G-for-Everyone_AcronymList.pdf)
+![Screenshot from 2023-10-29 20-39-16](https://github.com/KRIISHSHARMA/5G/assets/86760658/e13b18af-2959-48e1-b2d3-3051393de929)
+
+![Screenshot from 2023-10-29 20-40-01](https://github.com/KRIISHSHARMA/5G/assets/86760658/3996de20-ad2f-429d-8107-733db2f9fbdd)
+
+![Screenshot from 2023-10-29 20-46-10](https://github.com/KRIISHSHARMA/5G/assets/86760658/7a2e1e48-8162-49aa-8ea3-5c3647b78aed)
+
+
+
