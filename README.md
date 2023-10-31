@@ -303,7 +303,8 @@
 ![Screenshot from 2023-10-31 20-01-23](https://github.com/KRIISHSHARMA/5G/assets/86760658/73e20e9b-5e9e-4a4e-a841-802e49fcde5d)
 
 ## Real life M-MIMO case studies :
-![Screenshot from 2023-10-31 20-01-23](https://github.com/KRIISHSHARMA/5G/assets/86760658/1b1fbb85-7b0f-4a80-ad2c-b398bfc4ba44)
+![Screenshot from 2023-10-31 22-13-00](https://github.com/KRIISHSHARMA/5G/assets/86760658/acfdd054-a67a-44f5-b23f-938ac369b2d6)
+
 
 # [MODULE 6](5G_RADIO_ACCESS_NETWORK.md)
 
