@@ -152,3 +152,38 @@
 - If you could build a highway on those unused lines, you will have significantly improved your traffic capacity. Millimeter wave is about improving your technological capabilities and prowess so that you are now able to utilize some of the frequency spectra that were earlier unused and because they are unused, you will have access to abundant bandwidth in those frequency ranges on the order of 400 or 800 megahertz at a time. 
 
 ![Screenshot from 2023-10-30 21-12-15](https://github.com/KRIISHSHARMA/5G/assets/86760658/76eeec9e-b11d-4363-b044-30c545dc7284)
+
+##  network slicing 
+- a slice is a subset of the available network components that provides E2E service.
+- a slice can be designed and commissioned depending upon the needs of a service
+- diverse requirments of different services can be met by serving then with different slices of the same network i.e diff components of the same infra
+**benefits** :
+  - dynamic and efficient resources allocation and utilization ; resource isolation among services
+  - flexible subscription mode
+##   SDN and NFV { software defined network and network functionality virtualization }
+### SDN
+- SDN is about making your network more software oriented then they were before
+- network control func/task are decoupled from network devices/boxes
+- migration of control from individual network devices / boxes into accessiable distributed computing devices/func
+- underlying infra can be abstracted for diff applications and network services
+**benefits**
+  - centralized management and control of network devices
+  - rapid innovation on new network capabilities and services
+  - programmability by diff uses and developers
+  - increased network reliability and services
+  - more granular network control
+ ### NFV 
+- upto 4G , networks required specialised software running on specialialized software
+- NFV aims to transfer network arch .
+    - involves implementation of network func (NF) in software
+    - NF's can reside in cloud , operator premisis
+**benefits**
+- decoupling softawre from hardware
+- flexible , scalable , dynamic network deployments
+- cost effective operation
+
+## mobile edge computing (MED)
+- brings compute , storage and networking resources closer to application , devices and users
+- shift of resources from centralized  data centres far away from the end user to network edge
+- can faciliate service with strict latency , security and bandwidth requirements
+- SDN , NFV and 5G technologies promote to development of edge computer 
